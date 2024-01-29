@@ -8,7 +8,7 @@ matplotlib
 Python version 3.5 or later 
 
 ## To download data
--[](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz)
+-[Download link](https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz)
 
 ## **References**
 
